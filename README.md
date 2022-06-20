@@ -1,4 +1,5 @@
 ## 程序设计与数据结构III 五子棋项目
+负责人：陈文迪 游灏溢
 Codebase Credit: [张志成](https://github.com/Gabr1e1)
 
 ### 课程内容
