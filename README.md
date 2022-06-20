@@ -11,6 +11,7 @@ Codebase Credit: [张志成](https://github.com/Gabr1e1)
 
 ### 项目要求
 
+- **AI单步推理时间限制：5s**
 - 必做：实现Minimax搜索，alpha-beta剪枝，迭代加深搜索，支持人机对战的前端
 - 选做：蒙特卡洛树搜索，强化学习相关算法的探索
 - 60%算法实现(70%：超过50%胜率打败Baseline，30%：Code Review)
