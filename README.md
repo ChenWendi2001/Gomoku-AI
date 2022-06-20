@@ -41,7 +41,7 @@ Codebase Credit: [张志成](https://github.com/Gabr1e1)
   time
   ```
 
-- 运行方式：编译你的AI，接着执行`python judge.py ai0path/human ai1path/human`，写在前面的表示先手，后面的表示后手，例如：`python3 judge.py ./sample human`
+- 运行方式：编译你的AI，接着执行`python judge.py ai0path/human ai1path/human`，写在前面的表示先手，后面的表示后手，例如：`python judge.py ./sample human`
 
 - **注意：** 你可以通过更改judge.py来输出更多信息
 
